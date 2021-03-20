@@ -2,7 +2,7 @@
 class Hello extends CI_Contraller{
 	public function index(){
 		//c3 - memuat model 'Hello_Model'
-		$this -> load ->model(''Hello_Model);
+		$this -> load ->model('Hello_Model');
 
 		//pengambilkan objek dari kelas Hello_model dan dimuat di var $model
 		$model = $this ->Hello_model;
