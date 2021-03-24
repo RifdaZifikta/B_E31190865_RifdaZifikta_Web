@@ -22,15 +22,14 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
-	public function profil()
-	{
+
+	public function profil(){
 		//perintah untuk load file view dengan nama profil.php
 		$this->load->view('profil');
 	}
 
-	public function contact()
-	{
-		//perintah untuk load file view dengan nama profil.php
+	public function contact(){
+		//perintah untuk load file view dengan nama contact.php
 		$this->load->view('contact');
 	}
 }

@@ -4,7 +4,6 @@
 	<title>Hello View</title>
 </head>
 <body>
-<h2>"Hello World! PHP"</h2>
-
+<h2>"Hello Wolrd! Python"</h2>
 </body>
 </html>

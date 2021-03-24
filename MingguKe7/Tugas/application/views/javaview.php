@@ -4,7 +4,6 @@
 	<title>Hello View</title>
 </head>
 <body>
-<h2>"Hello World! Java"</h2>
-
+<h2>"Jello Wolrd! java"</h2>
 </body>
 </html>
